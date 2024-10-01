@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rokkunbruv
 - 👀 I’m enticed in graphics/shaders programming and anything low-level 
-- 🌱 I’m currently learning MERN stack and a bit of C++ Game Dev
+- 🌱 I’m currently learning web development: still mastering HTML and CSS, about to dig deep into Javascript, currently dabbling into NextJS
 - 😄 Pronouns: he/him
 
 <!---
