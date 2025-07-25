@@ -1,1 +1,1 @@
-self-studying web dev rn
+currently dabbling into interpreter development
